@@ -1,0 +1,92 @@
+
+.beta {
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+    background-color: #EEEEEE;
+    margin: 0 80px;
+    width: 90%;
+    float: left;
+}
+
+.center p {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#search {
+    width: 300px;
+    display: block;
+    margin: auto;
+    margin-bottom: 0px;
+}
+
+
+
+
+.solkose li{
+text-align: center;
+list-style-type: none;
+}
+
+
+.orta ul li{
+list-style-type: none;
+text-align: center;
+height: auto;    
+}
+
+.sag p{
+text-align: center;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+.butons{
+padding-left: 530px;
+}
+.kutular
+{
+    width: 100%;
+    margin: 0px 80px;
+}
+.kutular .solkose{
+width: 35%;
+background-color:#7EE5DA;
+float: left;
+margin: 2px 2px 0px 0px ;
+}
+.kutular .orta{
+width: 15%;
+float: left;
+background-color: #70CCC2;
+margin: 2px 2px 0px 0px;
+}
+.kutular .sag{
+background-color: #62B3AA;
+float: left;
+width: 40%;
+margin: 2px 2px 0px 0px;
+}
+
+.textsearch{
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding-bottom: 0px;
+margin-bottom: -18px;
+
+}
+.butonsandlink{
+padding-left: 220px;
+padding-top:0px;
+}
+footer {
+    display: block;
+    margin-left: 600px;
+    margin-top: 180px;
+    font-size: 14px;
+}
+
